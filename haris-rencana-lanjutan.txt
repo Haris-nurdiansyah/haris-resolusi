@@ -1,4 +1,6 @@
 - membuat website pake Ci 4
+  ^ membuat market place
 - belajar chart.js
 - membuat website info corona menggunakan API
+  ^ menggunakan framework codeigniter
 - mengupload website API 
