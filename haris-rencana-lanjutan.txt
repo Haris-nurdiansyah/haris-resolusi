@@ -1,4 +1,6 @@
 - membuat website pake Ci 4
+  ^ membuat aplikasi e-comers
 - belajar chart.js
 - membuat website info corona menggunakan API
+  ^ menggunakan framework laravel
 - mengupload website API 
