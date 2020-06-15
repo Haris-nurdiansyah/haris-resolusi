@@ -4,3 +4,4 @@
 - membuat website info corona menggunakan API
   ^ menggunakan framework laravel
 - mengupload website API 
+- belajar framework javascript
