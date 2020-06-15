@@ -1,0 +1,2 @@
+- membuat website pake Ci 4
+- belajar chart.js
