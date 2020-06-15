@@ -1,0 +1,3 @@
+- membuat website pake Ci 4
+- belajar chart.js
+- membuat website info corona menggunakan API
