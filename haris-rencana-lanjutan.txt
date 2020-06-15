@@ -1,5 +1,5 @@
 - membuat website pake Ci 4
-  ^ membuat aplikasi e-comers
+  ^ membuat market place
 - belajar chart.js
 - membuat website info corona menggunakan API
   ^ menggunakan framework laravel
