@@ -1,5 +1,5 @@
-- belajar javascript
-- belajar rest api
 - membuat rest server $ rest client
 - belajar git & github
 - belajar laravel framwork
+- membuat e-comers dengan laravel
+
