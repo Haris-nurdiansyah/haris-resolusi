@@ -2,4 +2,5 @@
 - belajar git & github
 - belajar laravel framwork
 - membuat e-comers dengan laravel
+- belajar codeigniter 4
 
